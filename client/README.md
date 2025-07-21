@@ -77,3 +77,23 @@ Click "Add" or press Enter
 ```
 
 ```
+
+#🚀 Installation
+Follow the steps below to set up and run the project locally.
+
+# 1. Clone the repository
+
+git clone https://github.com/poojalahane/myDayTasks.git
+
+# 2. Navigate to the project directory
+
+cd client
+
+# 3. Install dependencies
+
+If using npm:
+npm install
+
+# 4. Start the development server
+
+npm run dev
