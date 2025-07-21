@@ -1,0 +1,22 @@
+{
+  "express": {
+    "PORT": 3000,
+    "BASE_URL": "http://localhost:3000"
+  },
+  "db": {
+    "POSTGRES_USER": "postgres",
+    "POSTGRES_HOST": "localhost",
+    "POSTGRES_DATABASE": "interview",
+    "POSTGRES_PASSWORD": "postgres",
+    "POSTGRES_PORT": 5432
+  },
+  "redis": {
+    "REDIS_HOST": "smooth-ferret-49058.upstash.io",
+    "REDIS_PORT": 6379,
+    "REDIS_PASSWORD": "Ab-iAAIjcDFiNGE3ZTdjZmYzNDM0ODEwYjVmYTc5NzhlZGE0MjEyMXAxMA"
+  },
+  "jwt": {
+    "JWT_SECRET": "",
+    "JWT_EXPIRES_IN": "7d"
+  }
+}
